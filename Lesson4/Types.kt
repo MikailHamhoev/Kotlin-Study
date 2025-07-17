@@ -25,3 +25,4 @@ fun main() {
     val newInt = 3   // Int
     val newLong = 3L // Long
 }
+
